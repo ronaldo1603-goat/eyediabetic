@@ -1,0 +1,28 @@
+# Python 3.11 required
+
+# Core ML Libraries
+torch>=1.7.0
+torchvision>=0.8.0
+pretrainedmodels>=0.7.4
+efficientnet-pytorch>=0.7.0
+
+# Image Processing
+opencv-python>=4.5.0
+Pillow>=8.0.0
+scikit-image>=0.17.0
+
+# Scientific Computing
+numpy>=1.19.0
+pandas>=1.2.0
+scipy>=1.5.0
+
+# Machine Learning Utilities
+scikit-learn>=0.23.0
+joblib>=0.16.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Utilities
+tqdm>=4.60.0
+
