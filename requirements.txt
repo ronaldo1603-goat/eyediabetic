@@ -9,7 +9,7 @@ Pillow>=8.0.0
 scikit-image>=0.17.0
 
 # Scientific Computing
-numpy>=1.19.0
+numpy==1.26.4
 pandas>=1.2.0
 
 # Web Framework (for demo)
